@@ -1,2 +1,2 @@
 console.log('config.js loaded');
-console.log('Version 5');
+console.log('Version 6');
